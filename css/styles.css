@@ -94,7 +94,7 @@ padding-bottom: 24px; */
 }
 
 .web_logo {
-  color:  #404bbf;
+  color: #404bbf;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -199,6 +199,9 @@ padding-bottom: 24px; */
   padding-top: 24px;
   padding-bottom: 24px;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.web_logo {
+  color: #404bbf;
 }
 
 .contacts:hover,
