@@ -94,7 +94,7 @@ padding-bottom: 24px; */
 }
 
 .web_logo {
-  color: #4d5ae5;
+  color: #404bbf;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
@@ -143,8 +143,7 @@ padding-bottom: 24px; */
 }
 
 .list-item {
-  color: #404bbf;
-  background-color: #ffffff;
+    background-color: #ffffff;
 
   margin-right: 40px;
 }
