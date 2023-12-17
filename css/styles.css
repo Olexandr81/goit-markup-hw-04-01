@@ -38,7 +38,7 @@ body {
 
 .list-item {
   list-style: none;
-}
+  }
 
 .visually-hidden {
   position: absolute;
@@ -143,6 +143,7 @@ padding-bottom: 24px; */
 }
 
 .list-item {
+  color: #404bbf;
   background-color: #ffffff;
 
   margin-right: 40px;
